@@ -16,15 +16,15 @@ knitr::include_graphics("Screenshot 2024-10-18 at 2.49.47.PM.png")
 ```
 
 
-Urban habitat can be valuable for pollinators because it provides diverse floral resources; however, current yard landscaping norms are centered around turfgrass lawns, which are poor pollinator habitat. Effective conservation in this coupled socio-ecological system requires many people to change their current landscaping beahviors. One compelling possible contributor to this kind of behavior change is social contagion, which describes 'contagious' behaviors in which individuals act similarly to those with whom they interact the most.
+Urban habitat can be valuable for pollinators because it provides diverse floral resources; however, current yard landscaping norms are centered around turfgrass lawns, which are poor pollinator habitat. Effective conservation in this coupled socio-ecological system requires many people to change their current landscaping behaviors One compelling possible contributor to this kind of behavior change is social contagion, which describes 'contagious' behaviors in which individuals act similarly to those with whom they interact the most.
 
 We use large scale maps of front yard flower gardening to understand drivers and constraints to pollinator habitat creation, with a particular focus on the possible role of social contagion in spreading gardening practices between nearby neighbors.
 
 *Relevant publications/manuscripts:*
 
-Murphy A.M. & Crone E.E. Pollinator gardening is constrained by income but not lot size in urban front yards. In revision at Landscape & Urban Planning.
+Murphy A.M. & Crone E.E. 2025. Pollinator gardening is constrained by income but not lot size in urban front yards. Landscape & Urban Planning 256: 105271. [link](https://doi.org/10.1016/j.landurbplan.2024.105271)
 
-Others forthcoming.
+Murphy A.W. & Crone E.E. Flower gardening is socially contagious. In prep. (manuscript available on request).
 
 \
 
@@ -40,9 +40,9 @@ Urban landscapes are sometimes described as 'novel ecosystems' because they are 
 
 *Relevant publications/manuscripts*:
 
-Dooley K., Murphy A.M., Crone E.E. Landscape context affects both capture probability and abundance of solitary bees in cities. In prep for submission to Ecological Applications.
+Dooley K., Murphy A.M., Crone E.E. Landscape context affects both capture probability and abundance of solitary bees in cities. In review at Ecological Applications.
 
-Murphy A.M. & Crone E.E. Resource density affects host use by monarch butterflies in an urban landscape. In prep for submission to Biological Conservation.
+Murphy A.M. & Crone E.E. Resource density affects host use by monarch butterflies in an urban landscape. In prep for submission to Biological Conservation (manuscript available on request).
 
 \
 
@@ -57,9 +57,9 @@ Pollinator gardens have high potential for improving habitat quality for pollina
 
 *Relevant publications/manuscripts*:
 
-Dorian N., Murphy A.M., Iler A., CaraDonna P. Setting goals for pollinator gardens. In revision at Conservation Biology.
+Dorian N., Murphy A.M., Iler A., CaraDonna P. Setting goals for pollinator gardens. In press at Conservation Biology.
 
-Murphy A.M. & 11 others. Defining the pollinator garden: is conceptual flexibility a bug or a feature? In prep for submission to Ecology Letters.
+Murphy A.M. & 11 others. Defining the pollinator garden: is conceptual flexibility a bug or a feature? In prep. for submission to Ecology Letters (manuscript available on request).
 
 Murphy A.M. & Crone E.E. 2021. Pollinator gardens: landscaping for biodiversity in the 21st century. CREATE Solutions for a Changing World 1. Tufts University. [link](https://massbutterflies.org/downloads/CREATE_Pollinators_Murphy_Crone.pdf)
 
