@@ -13,15 +13,17 @@ knitr::include_graphics("Screenshot 2024-10-18 at 3.21.55.PM.png")
 \
 
 
-#### I am an ecologist interested in pollinators, population biology, and the socio-ecology of urban gardens. 
+#### I am an ecologist interested in understanding how human behaviors collectively produce emergent outcomes for animal populations and landscapes.
 
 \
-My research focuses on (1) the drivers of pollinator gardening, especially social contagion, (2) the ecology of insects in urban settings, including monarch butterflies and solitary bees, and (3) approaches to making pollinator gardens more effective conservation measures. Click the 'Research' tab for a brief summary of these lines of work.
+My current research focuses on (1) the drivers of pollinator gardening, especially social contagion, (2) the ecology of insects in urban settings, including monarch butterflies and solitary bees, and (3) approaches to making pollinator gardens more effective conservation measures. Click the 'Research' tab for a brief summary of these lines of work.
 
 I take a quantitative, interdisciplinary approach, drawing on tools from population ecology, landscape ecology, environmental social science, and others in order to address questions about how residential yards can become friendly to both wildlife and people.
 
 \
 
-Currently (Oct 2024 - Aug 2025) I am a postdoctoral researcher at University of California, Davis, in the Crone Lab (Department of Evolution and Ecology), working on US Fish and Wildlife-funded experimental restoration for monarch butterflies along California's coast range. 
+Currently (Oct 2024 - May 2025) I am a postdoctoral researcher at University of California, Davis, in the [Crone Lab](https://cronelab.faculty.ucdavis.edu/who-we-are/) (Department of Evolution and Ecology), working on US Fish and Wildlife-funded experimental restoration for monarch butterflies along California's coast range. 
+
+My next position (June 2025 - May 2026) will be as a postdoctoral researcher at Virginia Tech (remote, based in Reno, NV), where I will work with Drs. [Ashley Dayer](https://dayer.fishwild.vt.edu/dayer-2//) and [Elizabeth Hunter](https://hunterlab.weebly.com/) as part of a NASA-funded project to predict socio-ecological responses to sea level rise in the mid-Atlantic US.  
 
 My CV can be downloaded [here](https://drive.google.com/file/d/1tS-dopNDASnJzRlkYdwzm7V-nxTVAf-U/view?usp=sharing).
