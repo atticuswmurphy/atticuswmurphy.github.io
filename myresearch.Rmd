@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Research"
 output: html_document
 ---
 
@@ -40,7 +40,7 @@ Urban landscapes are sometimes described as 'novel ecosystems' because they are 
 
 *Relevant publications/manuscripts*:
 
-Dooley K., Murphy A.M., Crone E.E. Landscape context affects both capture probability and abundance of solitary bees in cities. In revision at Ecological Applications.
+Dooley K., Murphy A.M., Crone E.E. Landscape context affects both capture probability and abundance of solitary bees in cities. In press at Ecological Applications.
 
 Murphy A.M. & Crone E.E. Resource density affects host use by monarch butterflies in an urban landscape. In prep for submission to Biological Conservation (manuscript available on request).
 
@@ -59,7 +59,7 @@ Pollinator gardens have high potential for improving habitat quality for pollina
 
 Dorian N., Murphy A.M., Iler A., CaraDonna P. 2025. Setting goals for pollinator gardens. Conservation Biology e70009. [link](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.70009)
 
-Murphy A.M. & 11 others. Defining the pollinator garden: is conceptual flexibility a bug or a feature? In prep. for submission to Ecology Letters (manuscript available on request).
+Murphy A.M. & 11 others. Defining the pollinator garden: is conceptual flexibility a bug or a feature? In review at Frontiers in Ecology and the Environment.
 
 Murphy A.M. & Crone E.E. 2021. Pollinator gardens: landscaping for biodiversity in the 21st century. CREATE Solutions for a Changing World 1. Tufts University. [link](https://massbutterflies.org/downloads/CREATE_Pollinators_Murphy_Crone.pdf)
 

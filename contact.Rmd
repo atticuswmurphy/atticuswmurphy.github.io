@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Contact"
 output: html_document
 ---
 
 \
 
-I can be reached by email at nmurphy [at] ucdavis.edu. 
+I can be reached by email at atticusm [at] vt.edu. 
 
 \
 
