@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research</title>
+
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Atticus W. Murphy</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="myresearch.html">Research</a>
+</li>
+<li>
+  <a href="contact.html">Contact</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Research</h1>
+
+</div>
+
+
+<p><br />
+</p>
+<p>I have a variety of interests across ecology, conservation,
+geography, urban planning, and others. My research is mostly focused
+along four lines of work.</p>
+<p><br />
+</p>
+<div
+id="the-drivers-of-pollinator-gardening-especially-social-contagion"
+class="section level3">
+<h3>1. The drivers of pollinator gardening, especially social
+contagion</h3>
+<div class="figure">
+<img src="Screenshot%202024-10-18%20at%202.49.47.PM.png" alt="Front yard flower gardens in greater Boston (photos: Google Street View)" width="40%" />
+<p class="caption">
+Front yard flower gardens in greater Boston (photos: Google Street View)
+</p>
+</div>
+<p>Urban habitat can be valuable for pollinators because it provides
+diverse floral resources; however, current yard landscaping norms are
+centered around turfgrass lawns, which are poor pollinator habitat.
+Effective conservation in this coupled socio-ecological system requires
+many people to change their current landscaping behaviors One compelling
+possible contributor to this kind of behavior change is social
+contagion, which describes ‘contagious’ behaviors in which individuals
+act similarly to those with whom they interact the most.</p>
+<p>We use large scale maps of front yard flower gardening to understand
+drivers and constraints to pollinator habitat creation, with a
+particular focus on the possible role of social contagion in spreading
+gardening practices between nearby neighbors.</p>
+<p><em>Relevant publications/manuscripts:</em></p>
+<p>Murphy A.M. &amp; Crone E.E. 2025. Pollinator gardening is
+constrained by income but not lot size in urban front yards. Landscape
+&amp; Urban Planning 256: 105271. <a
+href="https://doi.org/10.1016/j.landurbplan.2024.105271">link</a></p>
+<p>Murphy A.W. &amp; Crone E.E. Flower gardening is socially contagious.
+In prep. (manuscript available on request).</p>
+<p><br />
+</p>
+</div>
+<div
+id="the-ecology-of-insects-in-urban-settings-including-monarch-butterflies-and-solitary-bees"
+class="section level3">
+<h3>2. The ecology of insects in urban settings, including monarch
+butterflies and solitary bees</h3>
+<div class="figure">
+<img src="Screenshot%202024-10-18%20at%203.24.17.png" alt="Ovipositing monarch butterfly (photo: Rachael Bonoan)" width="40%" />
+<p class="caption">
+Ovipositing monarch butterfly (photo: Rachael Bonoan)
+</p>
+</div>
+<p>Urban landscapes are sometimes described as ‘novel ecosystems’
+because they are so heavily human-modified. Yet a surprising diversity
+of insects nonetheless live in cities, particularly in pollinator
+gardens and other diverse garden habitats. In this line of research, I
+explore how these habitats function using population ecology to study
+habitat use, demography, movement, and others. We use butterflies and
+solitary bees as systems to explore these questions, in the context of
+basic ecological theories.</p>
+<p><em>Relevant publications/manuscripts</em>:</p>
+<p>Dooley K., Murphy A.M., Crone E.E. 2025. Landscape context affects
+both capture probability and abundance of solitary bees in cities. In
+press at Ecological Applications.</p>
+<p>Murphy A.M. &amp; Crone E.E. Resource density affects host use by
+monarch butterflies in an urban landscape. In prep for submission to
+Biological Conservation (manuscript available on request).</p>
+<p><br />
+</p>
+</div>
+<div
+id="approaches-to-improving-conservation-outcomes-on-private-lands-like-gardens-and-farms"
+class="section level3">
+<h3>3. Approaches to improving conservation outcomes on private lands
+like gardens and farms</h3>
+<div class="figure">
+<img src="Screenshot%202024-10-18%20at%203.30.56.png" alt="Research and outreach garden at Tufts University (photo: Rachael Bonoan/Billy Dunne)" width="40%" />
+<p class="caption">
+Research and outreach garden at Tufts University (photo: Rachael
+Bonoan/Billy Dunne)
+</p>
+</div>
+<p>Pollinator gardens have high potential for improving habitat quality
+for pollinators and other insects in residential areas. However,
+conservation in these residential contexts is different from traditional
+natural areas conservation in that the land is owned by a diverse set of
+independent landowners. Additionally, the pollinator gardening movement
+has developed as the result of a broad-based, diffuse collaboration
+between ecologists and laypeople, leading to unique challenges and
+opportunities for conservation and outreach. In this work, I advance a
+framework for how to maximize the utility of pollinator gardening for
+researchers, pollinators, and the public.</p>
+<p>In my current position, I am also studying how individual management
+decisions on agricultural lands, such as the construction of barriers or
+the creation of easements, can worsen or improve outcomes for marshes
+along the Atlantic coast at large scales.</p>
+<p><em>Relevant publications/manuscripts</em>:</p>
+<p>Dorian N., Murphy A.M., Iler A., CaraDonna P. 2025. Setting goals for
+pollinator gardens. Conservation Biology e70009. <a
+href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.70009">link</a></p>
+<p>Murphy A.M. &amp; 11 others. Defining the pollinator garden: is
+conceptual flexibility a bug or a feature? In review at Frontiers in
+Ecology and the Environment.</p>
+<p>Murphy A.M. &amp; Crone E.E. 2021. Pollinator gardens: landscaping
+for biodiversity in the 21st century. CREATE Solutions for a Changing
+World 1. Tufts University. <a
+href="https://massbutterflies.org/downloads/CREATE_Pollinators_Murphy_Crone.pdf">link</a></p>
+</div>
+<div id="feedbacks-between-human-actions-and-sea-level-rise"
+class="section level3">
+<h3>4. Feedbacks between human actions and sea level rise</h3>
+<div class="figure">
+<img src="36671943420_b121beac15_b.jpg" alt="Cedar Point Tideland, North Carolina (photo: NC Wetlands)" width="40%" />
+<p class="caption">
+Cedar Point Tideland, North Carolina (photo: NC Wetlands)
+</p>
+</div>
+<p>In my current position, I am building spatially explicit agent-based
+models of low-elevation private lands along the Atlantic Coast.</p>
+<p>The Atlantic Coast of the U.S. is experiencing some of the fastest
+rates of relative sea level rise in the world. As sea levels rise,
+existing marshes will be inundated with water, and in order to persist
+the marshes must shift to higher elevations. This shift is possible, but
+only if it is allowed progress by managers who own the areas currently
+upland of marshes. If managers instead opt to resist wetland incursion,
+wetlands are at risk of undergoing ‘coastal squeeze’, caught between a
+rock and a hard place (developed land and rising oceans), leading to
+loss of marshes and other ecologically crucial habitats.</p>
+<p>Currently, most of the land upland of marsh in this region is
+privately owned and is used for agriculture or forestry. We use surveys
+to understand how these landowners make decisions in the face of
+increasing saltwater impacts, and then use modeling approaches to test
+how different courses of action can act to either hinder or aid the
+migration of marshes in the face of extremely rapid sea level rise.</p>
+<p><em>Relevant publications/manuscripts</em>:</p>
+<p>In progress.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
